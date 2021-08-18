@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a8b6093.chunk.css",
-    "main.js": "/static/js/main.d74fbe1a.chunk.js",
-    "main.js.map": "/static/js/main.d74fbe1a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7fc57c50.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7fc57c50.js.map",
-    "static/js/2.53541249.chunk.js": "/static/js/2.53541249.chunk.js",
-    "static/js/2.53541249.chunk.js.map": "/static/js/2.53541249.chunk.js.map",
-    "static/js/3.f90e2324.chunk.js": "/static/js/3.f90e2324.chunk.js",
-    "static/js/3.f90e2324.chunk.js.map": "/static/js/3.f90e2324.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2a8b6093.chunk.css.map": "/static/css/main.2a8b6093.chunk.css.map",
-    "static/js/2.53541249.chunk.js.LICENSE.txt": "/static/js/2.53541249.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
-    "static/media/standingAtABusStop.1999e17d.jpg": "/static/media/standingAtABusStop.1999e17d.jpg"
+    "main.css": "/loveleenbassi.github.io/static/css/main.2a8b6093.chunk.css",
+    "main.js": "/loveleenbassi.github.io/static/js/main.d74fbe1a.chunk.js",
+    "main.js.map": "/loveleenbassi.github.io/static/js/main.d74fbe1a.chunk.js.map",
+    "runtime-main.js": "/loveleenbassi.github.io/static/js/runtime-main.fe9eb2f7.js",
+    "runtime-main.js.map": "/loveleenbassi.github.io/static/js/runtime-main.fe9eb2f7.js.map",
+    "static/js/2.f2ca94b0.chunk.js": "/loveleenbassi.github.io/static/js/2.f2ca94b0.chunk.js",
+    "static/js/2.f2ca94b0.chunk.js.map": "/loveleenbassi.github.io/static/js/2.f2ca94b0.chunk.js.map",
+    "static/js/3.f90e2324.chunk.js": "/loveleenbassi.github.io/static/js/3.f90e2324.chunk.js",
+    "static/js/3.f90e2324.chunk.js.map": "/loveleenbassi.github.io/static/js/3.f90e2324.chunk.js.map",
+    "index.html": "/loveleenbassi.github.io/index.html",
+    "static/css/main.2a8b6093.chunk.css.map": "/loveleenbassi.github.io/static/css/main.2a8b6093.chunk.css.map",
+    "static/js/2.f2ca94b0.chunk.js.LICENSE.txt": "/loveleenbassi.github.io/static/js/2.f2ca94b0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/loveleenbassi.github.io/static/media/logo.6ce24c58.svg",
+    "static/media/standingAtABusStop.1999e17d.jpg": "/loveleenbassi.github.io/static/media/standingAtABusStop.1999e17d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7fc57c50.js",
-    "static/js/2.53541249.chunk.js",
+    "static/js/runtime-main.fe9eb2f7.js",
+    "static/js/2.f2ca94b0.chunk.js",
     "static/css/main.2a8b6093.chunk.css",
     "static/js/main.d74fbe1a.chunk.js"
   ]
