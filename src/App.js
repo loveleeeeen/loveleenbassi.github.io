@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import Navbar from './Components/Navbar/index';
+import Footer from './Components/Footer/Footer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './Pages';
 import About from './Pages/about';
@@ -14,7 +15,7 @@ import SignUp from './Pages/signup';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hey Brendan!
@@ -27,7 +28,7 @@ function App() {
         >
           :)
         </a>
-      </header>
+      </header> */}
       <Router>
 	<Navbar />
 	<Switch>
@@ -40,6 +41,7 @@ function App() {
 		<Route path='/sign-up' component={SignUp} />
 	</Switch>
 	</Router>
+  {/* <Footer /> */}
     </div>
   );
 }
