@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Events = () => {
+const Projects = () => {
 return (
 	<div
 	style={{
@@ -10,9 +10,9 @@ return (
 		height: '100vh'
 	}}
 	>
-	<h1>Probably not gonna have any events but i guess i made a tab for it anyways!</h1>
+	<h1>*Add in project link with img and summary of what I did</h1>
 	</div>
 );
 };
 
-export default Events;
+export default Projects;

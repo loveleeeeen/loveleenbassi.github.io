@@ -6,11 +6,11 @@ import Footer from './Components/Footer/Footer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './Pages';
 import About from './Pages/about';
-import Events from './Pages/events';
-import AnnualReport from './Pages/annual';
+import Projects from './Pages/projects';
+import MoreMe from './Pages/moreMe';
 import Teams from './Pages/team';
 import Blogs from './Pages/blogs';
-import SignUp from './Pages/signup';
+import ContactMe from './Pages/contactMe';
 
 function App() {
   return (
@@ -34,11 +34,11 @@ function App() {
 	<Switch>
 		<Route path='/' exact component={Home} />
 		<Route path='/about' component={About} />
-		<Route path='/events' component={Events} />
-		<Route path='/annual' component={AnnualReport} />
+		<Route path='/projects' component={Projects} />
+		<Route path='/moreMe' component={MoreMe} />
 		<Route path='/team' component={Teams} />
 		<Route path='/blogs' component={Blogs} />
-		<Route path='/sign-up' component={SignUp} />
+		<Route path='/contactMe' component={ContactMe} />
 	</Switch>
 	</Router>
   {/* <Footer /> */}
