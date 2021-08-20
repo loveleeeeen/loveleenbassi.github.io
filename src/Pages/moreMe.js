@@ -1,6 +1,6 @@
 import React from 'react';
 
-const AnnualReport = () => {
+const MoreMe = () => {
 return (
 	<div
 	style={{
@@ -17,4 +17,4 @@ return (
 );
 };
 
-export default AnnualReport;
+export default MoreMe;
