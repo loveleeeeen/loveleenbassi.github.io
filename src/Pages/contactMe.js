@@ -1,24 +1,40 @@
 import React from 'react';
+import emailMe from "../Components/contactForm.js";
+import "../PageCss/contactMe.css";
+import LinkedIn from "../Assets/linkedIn_transparent.png";
+import GitHub from "../Assets/github_transparent.png";
 
 const ContactMe = () => {
+	let email = emailMe();
 return (
 	<div
 	style={{
-		display: 'flex',
-		justifyContent: 'Right',
-		alignItems: 'Right',
+		// display: 'flex',
+		// justifyContent: 'center',
+		// alignItems: 'center',
 		height: '100vh'
 	}}
 	>
-	<h1>Sign Up to be part of my cult! jk this is also probably gonna be gone </h1>
-	
-	<p>Add:
-		<li>linkedin link</li>
-		<li>resume</li>
-		<li>github link</li>
-		<li>email duhhh (or a form instead)</li>
-		<li></li>
-	</p>
+		<div
+			style={{
+				// display: "flex",
+				// justifyContent: "center",
+				// alignItems: "center",
+			}}
+		>
+
+		</div>
+		<br /><br />
+		<h1>Contact Me!</h1>
+		<br /><br />
+		<div>
+			{email}
+		</div>
+		<br />
+		<div className="iconGroup">
+			<a href="https://www.linkedin.com/in/loveleenbassi/"><img className="icon" src={LinkedIn} /></a>
+			<a href="https://github.com/loveleeeeen"><img className="icon" src={GitHub} /></a>
+		</div>
 	</div>
 );
 };
