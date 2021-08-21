@@ -1,5 +1,5 @@
 import React from 'react';
-import "./index.css";
+import "../PageCss/index.css";
 import {Row, Col} from 'react-bootstrap';
 
 //import HomeImg from "../Assets/sittingInWindow.png";
