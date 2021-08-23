@@ -8,7 +8,7 @@ import Home from './Pages';
 import About from './Pages/about';
 import Projects from './Pages/projects';
 import MoreMe from './Pages/moreMe';
-import Teams from './Pages/team';
+import Timer from './Pages/timer';
 import Blogs from './Pages/blogs';
 import ContactMe from './Pages/contactMe';
 
@@ -36,7 +36,7 @@ function App() {
 		<Route path='/about' component={About} />
 		<Route path='/projects' component={Projects} />
 		<Route path='/moreMe' component={MoreMe} />
-		<Route path='/team' component={Teams} />
+		<Route path='/timer' component={Timer} />
 		<Route path='/blogs' component={Blogs} />
 		<Route path='/contactMe' component={ContactMe} />
 	</Switch>

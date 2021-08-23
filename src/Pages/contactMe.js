@@ -1,5 +1,5 @@
 import React from 'react';
-import emailMe from "../Components/contactForm.js";
+import emailMe from "../Components/contactForm/contactForm.js";
 import "../PageCss/contactMe.css";
 import LinkedIn from "../Assets/linkedIn_transparent.png";
 import GitHub from "../Assets/github_transparent.png";
