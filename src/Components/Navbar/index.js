@@ -36,8 +36,8 @@ return (
 			<NavLink to='/MoreMe' activeStyle>
 				More Me
 			</NavLink>
-			<NavLink to='/team' activeStyle>
-				Teams
+			<NavLink to='/timer' activeStyle>
+				Timer
 			</NavLink>
 			<NavLink to='/blogs' activeStyle>
 				Blogs

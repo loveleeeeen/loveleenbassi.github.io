@@ -1,0 +1,46 @@
+.allTimers{
+    /* background-color: aqua; */
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.timerBox{
+    /* display: inline-block; */
+    border: 10px groove #913831;
+    background-color: #C4A484;
+    padding: 0px;
+    border-radius: 25px;
+    width: 400px;
+    /* display: flex;
+    flex-direction: row; */
+}
+
+.text{
+    text-decoration: underline;   
+}
+
+.left{
+    width: 500px; 
+    float: left;
+    margin: 10px; 
+    /* border: 1px solid salmon; */
+}
+
+.title{
+    float: right;
+    margin-top: 200px;
+    font-size: 80px;
+    transform: rotate(-90deg);
+    /* border: 1px solid green; */
+    padding: none;
+}
+
+.right{
+    width: 500px; 
+    float: left;
+    margin: 10px; 
+
+}
