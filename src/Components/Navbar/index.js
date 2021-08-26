@@ -16,12 +16,13 @@ return (
 	<Nav>
 		<Bars />
 
-		<img src={Icon}
+		{/* <img src={Icon}
 			style={{
 				borderRadius:"50%",
-				transform: "scale(0.5)"
+				// transform: "scaleX(0.5)",
+				// transform: "scaleY(0.6)"
 			}} 
-		/>
+		/> */}
 
 		<NavMenu>
         	<NavLink to='/' activeStyle>
@@ -33,9 +34,9 @@ return (
 			<NavLink to='/projects' activeStyle>
 				Projects 
 			</NavLink>
-			<NavLink to='/MoreMe' activeStyle>
+			{/* <NavLink to='/MoreMe' activeStyle>
 				More Me
-			</NavLink>
+			</NavLink> */}
 			<NavLink to='/timer' activeStyle>
 				Timer
 			</NavLink>
