@@ -49,7 +49,7 @@ const MoreMe = () => {
 			height: '100vh'
 		}}
 		>
-			<h1>Make it Hidden Page Vibz...</h1>
+			<h1>Hidden Page Vibz...</h1>
 			{/* <img src={Picture1} /> */}
 			{/* <p>Also maybe change the page name from moreMe to something about it being hidden so no-one can type it in</p> */}
 
