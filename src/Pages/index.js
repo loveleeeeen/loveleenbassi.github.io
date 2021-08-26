@@ -4,6 +4,7 @@ import {Row, Col} from 'react-bootstrap';
 
 //import HomeImg from "../Assets/sittingInWindow.png";
 import HomeImg from "../Assets/standingAtABusStop.jpg";
+import MoreMe from "./moreMe";
 
 const Home = () => {
 return (
@@ -39,7 +40,7 @@ return (
 						fontSize:"80px",
 					}}
 				>
-					Hey Hey!
+					Hey Hey <a href="MoreMe" target="_blank" style={{textDecoration:"none", color:"#7A5C58", cursor:"default",}}>!</a>
 				</h1>
 				<p 
 					style={{
