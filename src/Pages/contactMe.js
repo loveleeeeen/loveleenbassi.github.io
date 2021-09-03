@@ -35,6 +35,7 @@ return (
 			<a href="https://www.linkedin.com/in/loveleenbassi/"><img className="icon" src={LinkedIn} /></a>
 			<a href="https://github.com/loveleeeeen"><img className="icon" src={GitHub} /></a>
 		</div>
+		{/* <a href="tel:510-701-7248"> Call me</a> */}
 	</div>
 );
 };

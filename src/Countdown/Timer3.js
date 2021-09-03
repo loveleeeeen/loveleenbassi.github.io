@@ -16,8 +16,10 @@ const Timer3 = () => {
 	var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
 	var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 	// Display the result in the element with id="demo"
-	document.getElementById("demo3").innerHTML = days + "d " + hours + "h "
-	+ minutes + "m " + seconds + "s ";
+	window.onload = function () {
+		document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+		+ minutes + "m " + seconds + "s ";
+	}
 	// If the count down is finished, write some text
 	if (distance < 0) {
 		clearInterval(x);
