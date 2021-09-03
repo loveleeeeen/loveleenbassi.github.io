@@ -58,7 +58,7 @@ const MoreMe = () => {
 				// showDots={true}
 				arrows={false}
 				autoPlay={true}
-				autoPlaySpeed={4000}
+				autoPlaySpeed={5000}
 				infinite={true}
 
 				
@@ -76,7 +76,7 @@ const MoreMe = () => {
 				// showDots={true}
 				arrows={false}
 				autoPlay={true}
-				autoPlaySpeed={4000}
+				autoPlaySpeed={5000}
 				infinite={true}
 
 				
@@ -93,7 +93,7 @@ const MoreMe = () => {
 				// showDots={true}
 				arrows={false}
 				autoPlay={true}
-				autoPlaySpeed={4000}
+				autoPlaySpeed={5000}
 				infinite={true}
 
 				
