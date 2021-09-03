@@ -32,7 +32,7 @@ export const Bars = styled(FaBars)`
 display: none;
 color: #FAB73D;
 @media screen and (max-width: 768px) {
-	display: block;
+	// display: block;
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -52,7 +52,7 @@ margin-right: -24px;
 /* width: 100vw;
 white-space: nowrap; */
 @media screen and (max-width: 768px) {
-	display: none;
+	// display: none;
 }
 `;
 

@@ -40,7 +40,7 @@ return (
 						fontSize:"80px",
 					}}
 				>
-					Hey Hey <a href="MoreMe" style={{textDecoration:"none", color:"#7A5C58", cursor:"default",}}>!</a>
+					Hey Hey <a href="MoreMe" target="_blank" style={{textDecoration:"none", color:"#7A5C58", cursor:"default",}}>!</a>
 				</h1>
 				<p 
 					style={{

@@ -11,10 +11,14 @@ NavBtnLink,
 import Icon from "../../Assets/iconTransparent.png";
 
 const Navbar = () => {
+
+
+
 return (
 	<>
 	<Nav>
-		<Bars />
+			<Bars/>
+		
 
 		{/* <img src={Icon}
 			style={{
