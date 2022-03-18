@@ -11,6 +11,7 @@ import MoreMe from './Pages/moreMe';
 import Timer from './Pages/timer';
 import Blogs from './Pages/blogs';
 import ContactMe from './Pages/contactMe';
+import Adventures from "./Pages/adventures"
 
 function App() {
   return (
@@ -39,6 +40,7 @@ function App() {
 		<Route path='/timer' component={Timer} />
 		<Route path='/blogs' component={Blogs} />
 		<Route path='/contactMe' component={ContactMe} />
+    <Route path='/adventures' component={Adventures} />
 	</Switch>
 	</Router>
   {/* <Footer /> */}
