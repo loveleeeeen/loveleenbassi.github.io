@@ -44,9 +44,12 @@ return (
 			<NavLink to='/timer' activeStyle>
 				Timer
 			</NavLink>
-			<NavLink to='/blogs' activeStyle>
+			{/* <NavLink to='/blogs' activeStyle>
 				Blogs
-			</NavLink>
+			</NavLink> */}
+			{/* <NavLink to='/adventures' activeStyle>
+				Adventures
+			</NavLink> */}
 			<NavLink to='/contactMe' activeStyle>
 				Contact Me
 			</NavLink>

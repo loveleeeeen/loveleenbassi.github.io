@@ -5,14 +5,15 @@ const About = () => {
 return (
 	<div
 	style={{
-		display: 'flex',
-		justifyContent: 'Right',
-		alignItems: 'Right',
+		// display: 'flex',
+		// justifyContent: 'Right',
+		// alignItems: 'Right',
 		height: '100vh'
 	}}
 	>
-	<h1>All u need to know rn is that the person creating this page is still working on it. </h1>
-	<a href="/MoreMe" target="_blank">More Me</a>
+	{/* <h1>So ya wanna know more about me?!</h1>
+	<p>My name is Loveleen. I was born and raised in the Bay area. </p> */}
+	*comin soon :)
 	
 	</div>
 );
